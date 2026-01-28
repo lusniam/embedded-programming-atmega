@@ -1,1 +1,1 @@
-# embedded-programming-atmega
+Training projects for the atMega32 microcontroller as a part of Embedded Systems Course
